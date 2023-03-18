@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Ким Ангелина
 
 # Full name (for SEO)
 first_name: Ангелина
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студентка РУДН
 
 # Organizations/Affiliations to show in About widget
 organizations:
