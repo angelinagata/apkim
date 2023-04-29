@@ -44,9 +44,6 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: envelope
-    icon_pack: fas
     link: https://www.elibrary.ru/project_user_office.asp
     label: Elibrary
   - icon: school-lock
@@ -74,8 +71,9 @@ social:
     link: https://arxiv.org/user/
     label: Arxiv
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: https://github.com/angelinagata
+    label: github
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
